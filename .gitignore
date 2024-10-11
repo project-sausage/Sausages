@@ -1,0 +1,9 @@
+_site
+_.sass-cache
+Gemfile.lock
+*.sw*
+======
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
